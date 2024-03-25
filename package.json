@@ -1,0 +1,15 @@
+{
+  "name": "devarshishimpi-google-gemini-nodejs-chatbot",
+  "version": "1.0.0",
+  "description": "Simple Google Gemini ChatBot for Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.3.1"
+  }
+}
